@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2bb9497b009445a49090d7c25021f, type: 3}
+  m_Name: Walker
+  m_EditorClassIdentifier: 
+  m_enemyName: Walker
+  m_sprite: {fileID: 21300000, guid: b2d251d70a15c0742847e948c4f1b902, type: 3}
+  m_HealthPoints: {fileID: 11400000, guid: eeddde801ad808a4cb2b59b4f7f8f3de, type: 2}
+  m_StartingHP: {fileID: 11400000, guid: a8448fd0f0ace6547ad8d48367e5f06a, type: 2}
+  TimerValue: {fileID: 11400000, guid: 6afe67ef37018074b94c8d683acb7a04, type: 2}
+  StartTimerValue: {fileID: 11400000, guid: fd1a5714209ed854498a2c9e374387bb, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2bb9497b009445a49090d7c25021f, type: 3}
+  m_Name: Alien
+  m_EditorClassIdentifier: 
+  m_enemyName: Alien
+  m_sprite: {fileID: 21300000, guid: 732894121a13b24499998895ed85aa97, type: 3}
+  m_HealthPoints: {fileID: 11400000, guid: c22dbe2c90aee33498cdc034d591169a, type: 2}
+  m_StartingHP: {fileID: 11400000, guid: 4b8e47de58af48e449f8739764f9f8be, type: 2}
+  TimerValue: {fileID: 11400000, guid: fd225bee2cd6eaa43bb8896f9dce5527, type: 2}
+  StartTimerValue: {fileID: 11400000, guid: 3cd430aeade6b0b45a93714d6952eda1, type: 2}

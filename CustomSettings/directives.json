@@ -1,0 +1,10 @@
+{
+    "directives": [
+         "ENABLE_COMPACTUI" 
+    ],
+     "platforms": {
+        "Standalone": [
+             "ENABLE_COMPACTUI" 
+        ]
+    }
+}
